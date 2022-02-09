@@ -1,3 +1,20 @@
+# READ! error
+
+The api was does not allow live hosted web pages to use it so the current link you have recieved is the live link but fails to fetch the data.
+
+# functions that I've added and things I was unable to complete
+
+The web page I made is a single page with responsive viewing and simple styling
+it has a loader and well as an error message if there is an issue
+
+The data is displayed on the page for viewing and links the view to the article page by simply clicking a button
+
+The search function does not work, however there is code of my attempts as I did not have enough to complete the function
+There is mimal security(.env)
+there are no tests avalible
+
+Thank you for this task as it gave me the oppunitunity to learn react for the first time and now I can continue to grow this new skill.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
